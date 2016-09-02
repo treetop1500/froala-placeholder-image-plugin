@@ -30,8 +30,6 @@ Add the following before the closing body tag. Note the "placeHoldDropdown" in t
 ####Credits####
 Thanks to the following sites for providing the Ipsum text used in this plugin.
 
-Blank: http://placehold.it/
-
 Kitten: https://placekitten.com/
 
 Cage: https://www.placecage.com/
@@ -39,5 +37,7 @@ Cage: https://www.placecage.com/
 Murray.: http://www.fillmurray.com/
 
 Dog: http://loremflickr.com
+
+Zombie: http://placezombie.com
 
 

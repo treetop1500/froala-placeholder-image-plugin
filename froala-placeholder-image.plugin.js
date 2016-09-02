@@ -22,10 +22,6 @@ $.FroalaEditor.RegisterCommand('placeHoldDropdown', {
         "http://loremflickr.com/400/600/dog" : "Dog Portrait",
         "http://loremflickr.com/600/400/dog" : "Dog Landscape",
 
-        "http://placehold.it/600x600" : "Blank Square",
-        "http://placehold.it/400x600" : "Blank Portrait",
-        "http://placehold.it/600x400" : "Blank Landscape",
-
         "http://www.fillmurray.com/600/600" : "Fillmurray Square",
         "http://www.fillmurray.com/400/600" : "Fillmurray Portrait",
         "http://www.fillmurray.com/600/400" : "Fillmurray Landscape",
