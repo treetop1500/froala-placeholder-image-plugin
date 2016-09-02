@@ -28,7 +28,7 @@ Add the following before the closing body tag. Note the "placeHoldDropdown" in t
 
 
 ####Credits####
-Thanks to the following sites for providing the Ipsum text used in this plugin.
+Thanks to the following sites for providing content.
 
 Kitten: https://placekitten.com/
 
